@@ -1,7 +1,7 @@
 {
-    "name": "fproject/php-jwt",
+    "name": "har3/php-jwt",
     "description": "A simple library to encode and decode JSON Web Tokens (JWT) in PHP. Support several key types including JWK.",
-    "homepage": "https://github.com/fproject/php-jwt",
+    "homepage": "https://github.com/psenicka0101/php-jwt",
     "authors": [
         {
             "name": "Neuman Vong",
@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Firebase\\JWT\\": "src"
+            "Har3\\JWT\\": "src"
         }
     },
     "require-dev": {
